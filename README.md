@@ -48,44 +48,164 @@
 
 # 🧰 Tech Stack
 
+<h1>🧰 Tech Stack</h1>
+
 <h2 align="center">Languages</h2>
 
-<p align="center">
-  <img height="34" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img height="34" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img height="34" src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img height="34" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <br>
+      <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python">
+      <br><br>
+      <strong>Python</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="SQL">
+      <br><br>
+      <strong>SQL</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <br>
+      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java">
+      <br><br>
+      <strong>Java</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <br>
+      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript">
+      <br><br>
+      <strong>TypeScript</strong>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Data Engineering & Analytics</h2>
 
-<p align="center">
-  <img height="34" src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img height="34" src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img height="34" src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img height="34" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img height="34" src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="60" height="60" alt="PySpark">
+      <br><br>
+      <strong>PySpark</strong>
+      <br><br>
+    </td>
+    <td align="center" width="140">
+      <br>
+      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="60" height="60" alt="Databricks">
+      <br><br>
+      <strong>Databricks</strong>
+      <br><br>
+    </td>
+    <td align="center" width="140">
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL">
+      <br><br>
+      <strong>PostgreSQL</strong>
+      <br><br>
+    </td>
+    <td align="center" width="140">
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas">
+      <br><br>
+      <strong>Pandas</strong>
+      <br><br>
+    </td>
+    <td align="center" width="140">
+      <br>
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60" height="60" alt="Power BI">
+      <br><br>
+      <strong>Power BI</strong>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Backend, Cloud & DevOps</h2>
 
-<p align="center">
-  <img height="34" src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img height="34" src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img height="34" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img height="34" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img height="34" src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img height="34" src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI">
+      <br><br>
+      <strong>FastAPI</strong>
+      <br><br>
+    </td>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js">
+      <br><br>
+      <strong>Next.js</strong>
+      <br><br>
+    </td>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS">
+      <br><br>
+      <strong>AWS</strong>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker">
+      <br><br>
+      <strong>Docker</strong>
+      <br><br>
+    </td>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=terraform" width="60" height="60" alt="Terraform">
+      <br><br>
+      <strong>Terraform</strong>
+      <br><br>
+    </td>
+    <td align="center" width="180">
+      <br>
+      <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions">
+      <br><br>
+      <strong>GitHub Actions</strong>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">AI & Machine Learning</h2>
 
-<p align="center">
-  <img height="34" src="https://img.shields.io/badge/AMAZON_BEDROCK-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
-  <img height="34" src="https://img.shields.io/badge/LLM_AGENTS-7C3AED?style=for-the-badge" alt="LLM Agents" />
-  <img height="34" src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge" alt="NLP" />
-  <img height="34" src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge" alt="Machine Learning" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <h1>☁️</h1>
+      <strong>Amazon Bedrock</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <h1>🤖</h1>
+      <strong>LLM Agents</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <h1>🧠</h1>
+      <strong>NLP</strong>
+      <br><br>
+    </td>
+    <td align="center" width="150">
+      <h1>📈</h1>
+      <strong>Machine Learning</strong>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
