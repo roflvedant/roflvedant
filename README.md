@@ -1,81 +1,99 @@
-<h1 align="center">Hi, I'm Vedant Patil 👋</h1>
+<h1 align="center">Hi 👋, I'm Vedant Patil</h1>
 
-<h3 align="center">Data Engineering • Backend Systems • Applied AI</h3>
+<h3 align="center">
+  Computer Science @ Purdue University
+</h3>
+
+<h3 align="center">
+  GPA: 3.95/4.00 · Graduating May 2027
+</h3>
 
 <p align="center">
-  Computer Science student at Purdue University · Graduating May 2027
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Engineering+%7C+Backend+Systems;AWS+%7C+Applied+AI+%7C+LLM+Agents;Building+Reliable+Data+Products"
+    alt="Animated introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://h1-b-sponsor-scope.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Project-SponsorScope-16a34a?style=for-the-badge" alt="SponsorScope">
+    <img
+      height="34"
+      src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-SPONSORSCOPE-16A34A?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Live SponsorScope"
+    />
   </a>
   <a href="https://github.com/roflvedant/H1B-SponsorScope">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img
+      height="34"
+      src="https://img.shields.io/badge/VIEW_SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="SponsorScope source code"
+    />
   </a>
 </p>
 
-## About me
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Purdue University**
-- ⚙️ Interested in **data engineering, backend infrastructure, and applied AI**
-- 🔬 Undergraduate Research Assistant working on AI-guided polymer formulation
-- 📊 Previously built data pipelines with **The Data Mine × Cummins**
-- 🚀 Currently developing and deploying **SponsorScope**
+- 🏅 Maintaining a **3.95/4.00 GPA**
+- ⚙️ Interested in **data engineering, backend systems and applied AI**
+- 🔬 Undergraduate Research Assistant exploring AI-guided polymer formulation
+- 📊 Previously developed data pipelines with **The Data Mine × Cummins**
+- 🚀 Currently building and deploying **SponsorScope**
 - 📍 Based in Indianapolis, Indiana
 
-## Tech stack
+---
 
-### Languages
+# 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<h2 align="center">Languages</h2>
 
-### Data and analytics
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="34" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img height="34" src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img height="34" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<h2 align="center">Data Engineering & Analytics</h2>
 
-### Backend, cloud and DevOps
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img height="34" src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img height="34" src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img height="34" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img height="34" src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<h2 align="center">Backend, Cloud & DevOps</h2>
 
-### AI and machine learning
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img height="34" src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img height="34" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img height="34" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img height="34" src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img height="34" src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)
+<h2 align="center">AI & Machine Learning</h2>
 
-## Featured project
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/AMAZON_BEDROCK-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
+  <img height="34" src="https://img.shields.io/badge/LLM_AGENTS-7C3AED?style=for-the-badge" alt="LLM Agents" />
+  <img height="34" src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge" alt="NLP" />
+  <img height="34" src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge" alt="Machine Learning" />
+</p>
 
-### [SponsorScope](https://github.com/roflvedant/H1B-SponsorScope)
+---
 
-Evidence-backed job intelligence platform that helps international candidates evaluate employer sponsorship signals.
+## 🌟 Featured Project
 
-- Ingests and normalizes live job listings
-- Combines deterministic sponsorship rules with historical DOL data
-- Uses a bounded Amazon Bedrock agent to review ambiguous listings
-- Validates quoted evidence and records auditable AI decisions
-- Runs FastAPI and PostgreSQL on AWS ECS
-- Uses Docker, Terraform and GitHub Actions for deployment
-
-**[Try the live application →](https://h1-b-sponsor-scope.vercel.app)**
-
-## Experience and research
-
-- **The Data Mine × Cummins:** Developed PySpark pipelines in Databricks and Power BI reporting for engine maintenance-readiness analysis.
-- **TPS Lab:** Exploring machine learning and AI-agent approaches for polymer formulation research.
-
-## Current focus
-
-Building reliable data products that combine data pipelines, backend engineering, cloud infrastructure and carefully constrained AI systems.
+<a href="https://github.com/roflvedant/H1B-SponsorScope">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=roflvedant&repo=H1B-SponsorScope&theme=github_dark&hide_border=true"
+    alt="SponsorScope repository"
+  />
+</a>
